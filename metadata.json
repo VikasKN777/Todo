@@ -1,0 +1,6 @@
+{
+  "name": "Todo",
+  "description": "A minimalist, focused to-do list application for organizing daily tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
